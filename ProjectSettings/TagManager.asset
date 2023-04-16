@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - laser
+  - head
+  - explosion
+  - death
+  - money
+  - minigun
+  - minigungun
+  - car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - post process
+  - Water
+  - UI
+  - Sword
+  - player
+  - floor
+  - enemy
+  - weapon
+  - laser
+  - camera
+  - bugatti
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
